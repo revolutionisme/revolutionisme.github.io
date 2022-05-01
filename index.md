@@ -1,37 +1,34 @@
-## Welcome to my GitHub Page
+### Hi there 👋
 
-You can use the [editor on GitHub](https://github.com/revolutionisme/revolutionisme.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a Data and ML Engineer from India 🇮🇳, working in Germany 🇩🇪 these days.
 
-### Markdown
+**More about me**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 💼 Data Engineering Consultant at [Thoughtworks](https://www.thoughtworks.com)
+- 🔭 Haven't been building super awesome crazy things here on Github yet (Want to change that soon), although some private projects and scripts.
+- ❤️ Mostly work with Python but have brief experience with Java/Scala, although used YAML for writing infrastructure as well.
+- 😄 Pronouns: He/Him
 
-```markdown
-Syntax highlighted code block
+<!--
+**revolutionisme/revolutionisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Header 1
-## Header 2
-### Header 3
+Here are some ideas to get you started:
 
-- Bulleted
-- List
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-1. Numbered
-2. List
+## Quick overview
+* GitHub stats:  
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/revolutionisme/revolutionisme.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p align="center">
+  <img  height="170" src="https://github-readme-stats.vercel.app/api?username=revolutionisme&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revolutionisme&layout=compact&theme=buefy&show_icons=true&langs_count=6&hide=rich%20text%20format" />
+</p>
