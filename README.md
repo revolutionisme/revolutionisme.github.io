@@ -1,2 +1,2 @@
-# revolutionisme.github.io
-My own small static website
+# Intro to Biplob
+Setting a baseline
